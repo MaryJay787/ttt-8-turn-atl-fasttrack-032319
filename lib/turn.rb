@@ -13,6 +13,4 @@ end
 def valid_move(board, index)
   if index == board
   return true
-elsif return false
-end 
 end 
