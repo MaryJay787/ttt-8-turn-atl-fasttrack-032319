@@ -11,9 +11,9 @@ def input_to_index(user_input)
 end
 
 def valid_move?(board, index)
-  if board[index] == " "
+  if board[index] == " " 
     return true
-  elsif index > 0 && index < 8
+  elsif 
     return true
   end
     ## if index is between 0-8 and spot isnt taken its valid 
