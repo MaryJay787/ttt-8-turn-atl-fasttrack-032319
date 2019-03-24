@@ -15,5 +15,4 @@ def valid_move?(board, index)
   end
     ## if index is between 0-8 and spot isnt taken its valid 
     ## then its not valid
-    
 end 
